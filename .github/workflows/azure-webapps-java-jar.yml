@@ -12,11 +12,11 @@ jobs:
       - name: Récupérer le projet
         uses: actions/checkout@v4
 
-      - name: Installer Java 21
+      - name: Installer Java 25
         uses: actions/setup-java@v4
         with:
           distribution: temurin
-          java-version: 21
+          java-version: 25
 
       - name: Tests de la logique (sans Minecraft)
         run: sh tests/run.sh
