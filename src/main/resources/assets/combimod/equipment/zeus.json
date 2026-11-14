@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "combimod:zeus"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "combimod:zeus"
+      }
+    ]
+  }
+}

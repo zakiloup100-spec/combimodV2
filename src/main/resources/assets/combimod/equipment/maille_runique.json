@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "combimod:maille_runique"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "combimod:maille_runique"
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "combimod:item/maille_runique_pantalon"
+  }
+}

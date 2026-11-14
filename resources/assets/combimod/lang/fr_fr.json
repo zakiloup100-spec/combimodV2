@@ -1,0 +1,15 @@
+{
+  "block.combimod.mystic_chest": "Coffre mystique",
+  "block.combimod.epic_chest": "Coffre épique",
+  "block.combimod.legendary_chest": "Coffre légendaire",
+  "item.combimod.combi_item": "Objet mystique",
+  "entity.combimod.boss_blast": "Zombie Explosif",
+  "entity.combimod.boss_freeze": "Zombie Glacé",
+  "entity.combimod.boss_leech": "Zombie Vampire",
+  "entity.combimod.boss_poison": "Zombie Venimeux",
+  "entity.combimod.boss_blind": "Zombie Aveuglant",
+  "entity.combimod.boss_wither": "Zombie Flétrisseur",
+  "entity.combimod.boss_weaken": "Zombie Affaiblisseur",
+  "entity.combimod.boss_levitate": "Zombie Lévitant",
+  "block.combimod.sky_crate": "Colis du ciel"
+}
